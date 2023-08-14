@@ -1,0 +1,45 @@
+_repo: Bible-history-and-brief-outline-of-church-history_71231
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Brun, Nils Christian Nilsen
+    aliases:
+    - Brun, N. C.
+    - Brun, N.C.
+    birthdate: 1846
+    deathdate: 1919
+    gutenberg_agent_id: '56135'
+    url: http://www.gutenberg.org/2009/agents/56135
+creator:
+  author:
+    agent_name: Vogt, Volrath
+    aliases:
+    - Vogt, Henrik Ludwig Volrath
+    - Vogt, Henrik Ludvig Volrath
+    birthdate: 1817
+    deathdate: 1889
+    gutenberg_agent_id: '56134'
+    url: http://www.gutenberg.org/2009/agents/56134
+    wikipedia: https://no.wikipedia.org/wiki/Volrath_Vogt
+description: ''
+edition_note: Revised edition.
+gutenberg_issued: '2023-07-20'
+identifiers:
+  gutenberg: '71231'
+language: en
+pgterms:marc905: 20200817071932vogt
+pgterms:marc906: '1919'
+pgterms:marc907: US
+production_note: dp-post@pgdp.net, Juliet Sutherland, Guus Snijders and the Online
+  Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bAugsburg Publishing House, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church history'
+- !lcsh 'Bible -- History of Biblical events'
+- !lcc 'BS'
+- GITenberg
+title: Bible history and brief outline of church history
+url: http://www.gutenberg.org/ebooks/71231
