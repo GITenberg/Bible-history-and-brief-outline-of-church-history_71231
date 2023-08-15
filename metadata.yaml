@@ -10,6 +10,9 @@ contributor:
     deathdate: 1919
     gutenberg_agent_id: '56135'
     url: http://www.gutenberg.org/2009/agents/56135
+covers:
+- cover_type: archival
+  image_path: 71231-h/images/cover.jpg
 creator:
   author:
     agent_name: Vogt, Volrath
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56134
     wikipedia: https://no.wikipedia.org/wiki/Volrath_Vogt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71231#Bible-history-and-brief-outline-of-church-history
 edition_note: Revised edition.
 gutenberg_issued: '2023-07-20'
 identifiers:
